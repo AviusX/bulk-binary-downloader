@@ -134,7 +134,7 @@ def download_files(link_list):
 
         print(f"{Fore.GREEN}[+] Downloading file...{Style.RESET_ALL}")
         # Wait for the download to start-
-        time.sleep(10)
+        time.sleep(11.5)
         # Wait for the download to complete-
         WebDriverWait(driver, 120, 1).until(is_download_complete)
 
