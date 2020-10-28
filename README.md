@@ -25,7 +25,7 @@ Chromedriver can be downloaded from [here](https://chromedriver.chromium.org/dow
 ```bash
 python3 download.py
 ```
-	- The script will download the files into `./downloaded/` where `.` is your `present working directory`.
+- The script will download the files into `./downloaded/` where `.` is your `present working directory`.
 
 #### Optional / Troubleshooting:
 
